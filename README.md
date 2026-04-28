@@ -1,2 +1,2 @@
-# job-portal
+# project 1
 A job portal website connects job seekers with employers, enabling job search, applications, and recruitment management on one platform.
